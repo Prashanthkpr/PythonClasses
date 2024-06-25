@@ -14,3 +14,11 @@ git push origin main   #origin - reporiory , main - branch
 git remote -v  # to check the remotes
 
 git remote add origin <repo_url>
+
+git fetch --all # fetch all changes and branches
+
+git branch # to check all list of branches
+
+git checkout <branch_name> # to checkout to the branch
+
+git diff # to check the difference and uncommited changes
